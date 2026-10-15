@@ -533,3 +533,9 @@ if __name__ == "__main__":
             "Check microphone and configuration.",
             flush=True,
         )
+    except KeyboardInterrupt:
+        print(
+            "Poddo: Voice system terminated by user.",
+            flush=True,
+        )
+
