@@ -535,7 +535,7 @@ if __name__ == "__main__":
         )
     except KeyboardInterrupt:
         print(
-            "Poddo: Voice system terminated by user.",
+            "Poddos: Voice system terminated by user.",
             flush=True,
         )
 
